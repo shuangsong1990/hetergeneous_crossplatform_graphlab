@@ -1,0 +1,6 @@
+# correlate the ec2 instance type to a skew
+c4.large 1
+c4.xlarge 2
+c4.2xlarge 6
+c4.4xlarge 14
+c4.8xlarge 34

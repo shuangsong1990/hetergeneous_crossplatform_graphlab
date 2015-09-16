@@ -1,0 +1,16 @@
+# correlate the hostname to the EC2 instance type
+ip-172-31-29-163 c4.8xlarge
+ip-172-31-26-129 c4.8xlarge
+ip-172-31-18-224 c4.2xlarge
+ip-172-31-19-141 c4.2xlarge
+ip-172-31-35-50 c4.4xlarge
+ip-172-31-12-98 c4.4xlarge
+ip-172-31-16-57 c4.4xlarge
+ip-172-31-19-106 c4.8xlarge
+ip-172-31-25-227 c4.2xlarge
+ip-172-31-29-228 c4.2xlarge
+ip-172-31-31-168 c4.8xlarge
+ip-172-31-18-213 c4.4xlarge
+ip-172-31-29-176 c4.4xlarge
+ip-172-31-26-209 c4.2xlarge
+ip-172-31-28-28 c4.8xlarge
